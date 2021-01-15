@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176409081143",
+    "project_id": "android-learn-fed73",
+    "storage_bucket": "android-learn-fed73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176409081143:android:de63463de6e219a87c16b2",
+        "android_client_info": {
+          "package_name": "com.firebase.allcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176409081143-tmngkjiv0v5pts77p41vvct9lpcc04jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2vlcbfrvK3YZ-ZfRxypPyKC5dhi3R2_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176409081143-tmngkjiv0v5pts77p41vvct9lpcc04jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
